@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Implicit Intent</string>
-    <string name="defaultUrl">https://mail.ru</string>
+    <string name="defaultUrl">https://bash.im</string>
     <string name="go">go</string>
+    <string name="run_echo">Run Echo</string>
+    <string name="name">Name</string>
 </resources>
